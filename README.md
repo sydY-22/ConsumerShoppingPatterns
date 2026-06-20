@@ -28,6 +28,6 @@
 # Interactive Dashboard Demo:
 ![Interactive Consumer Dashboard Demo](customer_dash_gif.gif)
 
-# Dashboard:
+# Dashboard Link:
 ![Interactive Consumer Dashboard](customer_behavior_dashboard.pbix)
 
