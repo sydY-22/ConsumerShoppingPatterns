@@ -25,6 +25,9 @@
 - Payment Method: StringVar - the type of payment method applied
 - Frequency of Purchases: StringVar - how frequently the customer shops 
 
-# Interactive Dashboard:
-![Interactive Consumer Dashboard](customer_dash_gif.gif)
+# Interactive Dashboard Demo:
+![Interactive Consumer Dashboard Demo](customer_dash_gif.gif)
+
+# Dashboard:
+![Interactive Consumer Dashboard](customer_behavior_dashboard.pbix)
 
