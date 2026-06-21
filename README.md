@@ -26,8 +26,8 @@
 - Frequency of Purchases: StringVar - how frequently the customer shops 
 
 # Interactive Dashboard Demo:
-![Interactive Consumer Dashboard Demo](customer_dash_gif.gif)
+![Interactive Consumer Dashboard Demo](GIFS/customer_dash_gif.gif)
 
 # Dashboard Link:
-![Interactive Consumer Dashboard](customer_behavior_dashboard.pbix)
+![Interactive Consumer Dashboard](Dashboards/customer_behavior_dashboard.pbix)
 
